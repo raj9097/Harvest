@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fonts>
+        <font>
+            <name>Arial</name>
+            <size>16</size>
+            <style>normal</style>
+            <color>#000000</color>
+        </font>
+        <font>
+            <name>Courier New</name>
+            <size>14</size>
+            <style>italic</style>
+            <color>#FF5733</color>
+        </font>
+        <font>
+            <name>Times New Roman</name>
+            <size>18</size>
+            <style>bold</style>
+            <color>#0000FF</color>
+        </font>
+    </fonts>
+</font-family>

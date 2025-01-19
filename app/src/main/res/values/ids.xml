@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Start app activity id -->
+    <item name="signup" type="id"/>
+    <item name="login" type="id"/>
+
+
+    <!-- login activity id -->
+    <item name="user_name" type="id" />
+    <item name="password_login" type="id" />
+    <item name="login_activity" type="id" />
+    <item name="checkbox" type="id" />
+    <item name="forget_password" type="id" />
+    <item name="do_signup" type="id" />
+
+
+    <!-- Signup  activity id -->
+
+    <item name="first_name" type="id"/>
+    <item name="last_name" type="id"/>
+    <item name="email_id" type="id"/>
+    <item name="password" type="id"/>
+    <item name="conform_password" type="id"/>
+    <item name="signup_done" type="id"/>
+    <item name="already_acc_login" type="id"/>
+
+
+
+</resources>
